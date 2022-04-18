@@ -12,8 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://olumarshal.github.io/QR-Code-Component/)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-solution-using-html-and-plain-css-rJBAOUj4q
+
+- Live Site URL: https://olumarshal.github.io/QR-Code-Component
 ### Built with
 
 - Semantic HTML5 markup
