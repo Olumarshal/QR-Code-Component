@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://olumarshal.github.io/QR-Code-Component/)
 ### Built with
 
 - Semantic HTML5 markup
@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Olumarshal)
-- Twitter - [@yourusername](https://www.twitter.com/Ng_Marshal)
+- Frontend Mentor - [@Olumarshal](https://www.frontendmentor.io/profile/Olumarshal)
+- Twitter - [@Ng_Marshal](https://www.twitter.com/Ng_Marshal)
 
 
